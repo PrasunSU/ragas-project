@@ -1,0 +1,32 @@
+trigger:
+  - feature/my-temp-branch  # Trigger pipeline on changes 
+
+pool:
+  vmImage: 'windows-latest'  
+
+variables:
+  pythonVersion: '3.10'
+
+steps:
+  - task: UsePythonVersion@0
+    inputs:
+      versionSpec: '$(pythonVersion)'
+      addToPath: true
+
+  - task: NodeTool@0
+    inputs:
+      versionSpec: '18.x'  ## to check Node 18 version installed or ot
+    displayName: 'Install Node.js'
+
+  - script: |
+      python -m pip install --upgrade pip
+      pip install -r requirements.txt
+    displayName: 'Install Python dependencies'
+
+  - script: |
+      npx playwright install
+    displayName: 'Install Playwright browsers'
+
+  - script: |
+      ragas_evals/python runner.py
+    displayName: 'Run automation script'

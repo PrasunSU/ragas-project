@@ -1,0 +1,192 @@
+[
+  {
+    "user_input":"What pets are allowed in the cabin on American Airlines flights?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"Only cats and dogs are accepted as cabin pets on American Airlines flights.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"Can I bring a sedated pet in the cabin?",
+    "retrieved_contexts":[
+      "Context Received:\nThe query relates to American Airlines' Sedation Policy, which states that sedated pets are not accepted for cabin travel due to increased risks of respiratory and cardiovascular problems at high altitudes."
+    ],
+    "response":".",
+    "reference":"No, American Airlines does not accept sedated or tranquilized pets due to the risk of health issues at high altitudes.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"Are pet strollers allowed in the cabin?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"No, pet strollers are not permitted in the cabin and are treated as checked baggage.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"What is the cabin pet service fee for tickets issued on or after February 20, 2024?",
+    "retrieved_contexts":[
+
+    ],
+    "response":".",
+    "reference":"The fee is $150 USD one-way per kennel.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"Can cabin pets travel to Hawaii with American Airlines?",
+    "retrieved_contexts":[
+      "Context from user query: The user asked if cabin pets can travel to Hawaii with American Airlines."
+    ],
+    "response":".",
+    "reference":"No, cabin pets are never permitted on flights to or from Hawaii.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"What are the kennel size limits for regional aircraft?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"For regional aircraft, the maximum kennel dimensions are 16 inches in length, 12 inches in width, and 8 inches in height.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"What are some behaviors that may result in a pet being refused as a cabin pet?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"Pets that bark or meow constantly, bite or attempt to bite, growl, hiss, or scratch\/jump on people may be denied travel.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"What are the CDC restrictions regarding dogs from high-risk rabies countries?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"Dogs from or who have visited high-risk rabies countries within 6 months are not allowed as cabin pets unless they are service animals or belong to U.S. Military\/Foreign Service personnel on official orders.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"How many cabin pets are allowed in First Class on a CRJ-700 aircraft?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"Only one kennel is allowed in First Class on a CRJ-700.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"What is required for a dog to travel from a screwworm-affected country?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"A certificate signed by a veterinary official stating the dog was inspected within 5 days before shipment and is free of screwworm or was treated and quarantined.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"What are the rules regarding check-in and kennel placement for cabin pets during travel?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"Cabin pets must be checked in at the ticket counter (not curbside), with a visual inspection. The pet must remain in a closed\/zipped kennel under the seat in front of the passenger at all times during boarding, flight, and in lounges. Check-in must be done at least two hours before departure and no more than four hours before.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"What are the restrictions for passengers who wish to travel in Business or First Class with a cabin pet on aircraft like the B777 or B787?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"Cabin pets are not permitted in Business or First Class on B777-200, B777-300ER, or B787-8\/9 aircraft due to the lack of under-seat storage. AACoRN will prevent booking cabin pets in these classes. Pets must travel in the main cabin if space is not available in premium cabins.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"Describe the kennel requirements for soft-sided carriers used for cabin pets.",
+    "retrieved_contexts":[
+      "References:\nNo relevant context provided."
+    ],
+    "response":".",
+    "reference":"Soft-sided kennels must be no larger than 18 x 11 x 11 inches, made of padded, water-repellent nylon with mesh ventilation, and include an absorbent material like a towel. The kennel must be secure, leak-proof, escape-proof, and fit under the seat in front of the customer.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"If a customer upgrades their ticket after booking a pet in cabin, what steps must be taken to accommodate the pet?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"The original Pet PNR must be canceled, and a new Pet PNR created for the upgraded cabin, checking space availability. If there's no space for pets in the upgraded class, the pet may have to travel in the main cabin. Special attention must be given to the seat and aircraft restrictions listed in the seating chart.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"What happens if a pet shows aggressive behavior such as biting or growling during check-in?",
+    "retrieved_contexts":[
+      "Context from user query: The user asked about the procedure or consequences if a pet exhibits aggressive behavior, such as biting or growling, during the check-in process."
+    ],
+    "response":".",
+    "reference":"The pet will be refused transportation as a cabin pet due to disruptive behavior.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"Can a dog traveling from Haiti be accepted as a cabin pet if it is not a service animal?",
+    "retrieved_contexts":[
+      "Context from User Query:\nThe user asked whether a dog traveling from Haiti can be accepted as a cabin pet if it is not a service animal."
+    ],
+    "response":".",
+    "reference":"No, dogs from Haiti are considered high-risk for rabies and are not accepted as cabin pets unless they are service animals or traveling with U.S. Military or State Department officials on orders.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"Is it allowed to place a pet kennel on the seat next to you if you\u2019ve purchased an extra seat?",
+    "retrieved_contexts":[
+      "Context from user query: The user asked if it is allowed to place a pet kennel on the seat next to them after purchasing an extra seat."
+    ],
+    "response":".",
+    "reference":"No, the kennel must remain under the seat in front of the extra seat purchased. It should never be placed or remain on the seat cushion.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"Can a customer check in a cabin pet at the curbside check-in counter?",
+    "retrieved_contexts":[
+
+    ],
+    "response":"ERROR: No answer",
+    "reference":"No, pets must be checked in at the ticket counter. Curbside check-in is not allowed for pets.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  },
+  {
+    "user_input":"Will American Airlines accept a pet passport as proof of health documentation for cabin pets?",
+    "retrieved_contexts":[
+      "Context from User Query:\nThe user asked whether American Airlines accepts a Pet Passport as proof of health documentation for cabin pets."
+    ],
+    "response":".",
+    "reference":"No, a pet passport is not accepted. The appropriate health documents must be presented as per destination requirements.",
+    "answer_relevancy":null,
+    "semantic_similarity":null
+  }
+]
