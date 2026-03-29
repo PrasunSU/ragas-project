@@ -1,4 +1,4 @@
-# Evaluation of Damia Playground using RAGAS
+# Evaluation of AI Chatbot using RAGAS
 
 
 
